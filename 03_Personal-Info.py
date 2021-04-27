@@ -1,0 +1,6 @@
+fname = input("Enter your First Name: ")
+lname = input("Enter your Last Name: ")
+loc = input("Enter your Location: ")
+age = input("Enter your Age: ")
+print("\n")
+print(fname, lname, loc, age)
